@@ -12,7 +12,7 @@ namespace Elemendid
     {
         public MainPage()
         {
-            Button Tbl_btn = new Button { Text = "Entry/Editor" };
+            Button Tbl_btn = new Button { Text = "Entry/Editorr" };
             StackLayout st = new StackLayout();
             st.Children.Add(Tbl_btn);
             Tbl_btn.Clicked += Tbl_btn_Clicked;
